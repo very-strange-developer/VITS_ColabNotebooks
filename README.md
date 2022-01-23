@@ -1,5 +1,6 @@
 # VITS_ColabNotebooks
 Korean ver.<br>
+Original code : https://github.com/jaywalnut310/vits<br>
 <h2>Training Notebook</h2>
 https://colab.research.google.com/drive/1L5ZKs-B7RFxAqtBoVfSUjl4FzG3038yC?usp=sharing<br>
 <br>
