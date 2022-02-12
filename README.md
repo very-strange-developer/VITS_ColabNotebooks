@@ -6,6 +6,6 @@ https://colab.research.google.com/drive/1L5ZKs-B7RFxAqtBoVfSUjl4FzG3038yC?usp=sh
 <br>
 ### Synthesizer Notebook
 https://colab.research.google.com/drive/1lb0j_qiLKpjoOR-Sg9Z9zw5koP6rNFEL?usp=sharing<br>
-## English ver.
+## English ver. (Not tested yet)
 ### Training Notebook
 https://colab.research.google.com/drive/1h2ZYSrEW8I3Ce1uJDwOMBpi5HaXVWImz?usp=sharing
