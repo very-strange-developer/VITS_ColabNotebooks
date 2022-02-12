@@ -19,3 +19,8 @@ You should modify 'symbols.py' or your transcripts.
 You should clear your colab runtime and restart.
 </code></pre>
 
+<pre><code><!DOCTYPE ~~ :
+File download failure is the reason.
+Recently, I have sometimes seen that files cannot be downloaded correctly from Google Drive during colab notebook execution.
+If the problem persists,  will change the distribution method of the modified code file.
+</code></pre>
